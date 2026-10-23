@@ -283,6 +283,8 @@ Lead data is wrapped in `<lead_data>` tags, and the prompt instructs the model t
 
 Import `workflows/error-alert-workflow.json` and configure it as the **Error Workflow** in the main workflow's settings. This sends an email notification when any execution fails, including the workflow name, failed node, error message, and execution URL.
 
+![Email Alert Example](images/email.png)
+
 ### Built-in Fallbacks
 
 - AI provider failures cascade through Groq → OpenRouter → Gemini → rule-based
