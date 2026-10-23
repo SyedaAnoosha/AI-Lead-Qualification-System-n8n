@@ -1,0 +1,1 @@
+lead_id,received_at,name,email,company,role,phone,budget_text,budget_usd,timeline,message,source,intent,qualification,qualified,score,ai_score,rule_score,confidence,reason,key_signals,risk_flags,recommended_action,ai_recommended_action,crm_status,needs_review,ai_provider,ai_model,ai_error,follow_up_subject,follow_up_body,last_updated
